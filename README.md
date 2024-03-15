@@ -1,2 +1,1 @@
-# SergeiShi.github.io
-ЛР3
+# Electric-bike
